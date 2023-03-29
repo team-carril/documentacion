@@ -1,0 +1,18 @@
+1. git clone <branch> con la branch que queramos trabajar
+
+2. git branch <nueva rama> brancheamos para no commitear en la rama que hemos
+clonado
+
+3. git checkout <nueva rama> seleccionamos la nueva rama
+
+4. git status miramos que no hay cambios nuevos
+
+5. git add -A añadimos los cambios a la la nueva rama
+
+6. *git commit -m "mensaje de los cambios" comiteamos a la nueva ramma
+
+7. git push origin <nueva rama> pusheamos los cambios a la nueva rama
+
+/* antes de hacer un comit podriamos hacer un git pull, pero como trabajamos
+en ramas separadas cuando trabajamos, solemos hacerlo al principio cuando
+clonamos la rama para asegurar de que esta bien, igual que el git status */

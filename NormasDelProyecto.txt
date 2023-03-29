@@ -1,0 +1,3 @@
+Aqui estarán las normas que seguiremos en la realización del Carrito:
+
+1.- Los pulls deberan estar revisados por todos los miembros del grupo

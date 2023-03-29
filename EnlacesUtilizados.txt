@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/8148684/what-data-type-to-use-for-money-in-java#:~:text=Java%20has%20Currency%20class%20that%20represents%20the%20ISO,Money%20has%20provided%20a%20library%20to%20represent%20money.
+
+https://docs.oracle.com/javase/7/docs/api/java/math/BigDecimal.html
